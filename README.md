@@ -25,3 +25,7 @@ I have been programming for over 6 years, starting as a self-taught developer us
 <a href="https://www.youtube.com/watch?v=76g6QEE7_yM">
   <img src="https://i9.ytimg.com/vi/76g6QEE7_yM/mqdefault.jpg?v=69c954ca&sqp=CLjWp9cG&rs=AOn4CLCC-bswZZjDM1V5gstHf0zuaoNBUA"/>
 </a>
+
+<a href="https://www.youtube.com/watch?v=TFlSe3vA9lM">
+  <img src="https://i9.ytimg.com/vi/TFlSe3vA9lM/mqdefault.jpg?v=6532751d&sqp=CLjWp9cG&rs=AOn4CLBqtiFxFkc3VPri_xkbjxpFb_I9rw"/>
+</a>
