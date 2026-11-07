@@ -7,6 +7,7 @@ video game development student
 I have been programming for over 6 years, starting as a self-taught developer using C# and Unity. Over the years, I’ve built and iterated on numerous 2D and 3D prototypes, developing a strong proficiency in system architecture and problem-solving. I actively document my development process on YouTube and showcase playable projects on itch.io. While comfortable with 3D, I specialize in 2D gameplay development and am actively seeking opportunities as a Gameplay Programmer.
 
 *  I'm currently working on [Blackpeak Depths](http://youtu.be/lfduegtb_oA?si=A6oxE_QiygrhLEUi)
+*  Here's my [portfolio](https://remaf300.github.io/)
 
 ### Some Youtube Videos
 
