@@ -1,4 +1,4 @@
-<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/b293467c-c2ee-4a42-a859-dd00e1df9cd6" />Hi I'm remaf
+Hi I'm remaf
 ========================
 
 video game development student
@@ -18,10 +18,8 @@ I have been programming for over 6 years, starting as a self-taught developer us
 
 ### Some Youtube Videos
 
-[<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/93158dd2-e164-4824-9b76-97f378b37d70" />](https://youtu.be/WPfJ_dUPVLE?si=oBoXoDeFgzXyxQk3)
+[<img width="1920" height="1080" alt="BlackpeakDepths" src="https://github.com/user-attachments/assets/a9018306-9abf-4428-bc67-382a0f688461" />](https://youtu.be/WPfJ_dUPVLE?si=oBoXoDeFgzXyxQk3)
 
-[<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/20968a4a-b415-459c-904e-d1d2976eadaa" />](https://youtu.be/jfwfdiMI0x0?si=K0oB9uLkP0RbGyTt)
+[<img width="1920" height="1080" alt="CppMinia" src="https://github.com/user-attachments/assets/2ea3bbfb-5f13-44ff-a46b-b682238fe2fe" />](https://youtu.be/76g6QEE7_yM?si=2kvFh83A4-MJFKUk)
 
-[<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/2904f494-e02a-4c8b-9aa9-c4f06a3f84b0" />](https://youtu.be/TFlSe3vA9lM?si=GOrClLg96LHaFobk)
-
-[<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/42f4955e-b33e-4e30-8826-dc1446760049" />](https://youtu.be/76g6QEE7_yM?si=2kvFh83A4-MJFKUk)
+[<img width="1920" height="1080" alt="OptimisationMiniature" src="https://github.com/user-attachments/assets/eb82b4e0-b5bc-48e8-8070-edc2f0785c06" />](https://www.youtube.com/watch?v=fclpj6KCyAs)
