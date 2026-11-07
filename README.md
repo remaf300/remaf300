@@ -18,8 +18,6 @@ I have been programming for over 6 years, starting as a self-taught developer us
 
 ### Some Youtube Videos
 
-[<img width="1920" height="1080" alt="BlackpeakDepths" src="https://github.com/user-attachments/assets/a9018306-9abf-4428-bc67-382a0f688461" />](https://youtu.be/WPfJ_dUPVLE?si=oBoXoDeFgzXyxQk3)
 
-[<img width="1920" height="1080" alt="CppMinia" src="https://github.com/user-attachments/assets/2ea3bbfb-5f13-44ff-a46b-b682238fe2fe" />](https://youtu.be/76g6QEE7_yM?si=2kvFh83A4-MJFKUk)
-
-[<img width="1920" height="1080" alt="OptimisationMiniature" src="https://github.com/user-attachments/assets/eb82b4e0-b5bc-48e8-8070-edc2f0785c06" />](https://www.youtube.com/watch?v=fclpj6KCyAs)
+| :---: | :---: |
+[<img width="400" alt="BlackpeakDepths" src="https://github.com/user-attachments/assets/a9018306-9abf-4428-bc67-382a0f688461" />](https://youtu.be/WPfJ_dUPVLE?si=oBoXoDeFgzXyxQk3) | [<img width="400" alt="CppMinia" src="https://github.com/user-attachments/assets/2ea3bbfb-5f13-44ff-a46b-b682238fe2fe" />](https://youtu.be/76g6QEE7_yM?si=2kvFh83A4-MJFKUk) | [<img width="400" alt="OptimisationMiniature" src="https://github.com/user-attachments/assets/eb82b4e0-b5bc-48e8-8070-edc2f0785c06" />](https://www.youtube.com/watch?v=fclpj6KCyAs)
